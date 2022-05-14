@@ -58,14 +58,28 @@
 #
 
 ## I. SOLUCION DE EJERCICIOS/PROBLEMAS
+Ejercicio1
+![image](https://user-images.githubusercontent.com/87882802/168411146-e5b6502a-980d-4e49-ac34-5d6f52b3d028.png)
+
+Ejercicio2
+![image](https://user-images.githubusercontent.com/87882802/168411155-e8281919-2bad-4f79-a87e-e11826fbc6fd.png)
+
+Ejercicio3
+![image](https://user-images.githubusercontent.com/87882802/168411164-2583af19-c542-4c00-917a-ff4cc52065fe.png)
+
+Ejercicio4
+![image](https://user-images.githubusercontent.com/87882802/168411175-721c1bb3-d820-4042-9ac7-58af122f9711.png)
+
 
 ## II. SOLUCION DEL CUESTIONARIO
 - ¿Qué diferencia hay entre un List y un ArrayList en Java?
-
+Una de las principales diferencias entre List y ArrayList es que list es una interfaz y ArrayList es una clase.
+La interfaz lista crea una coleccion de elementos y se identifican o acceden mediante su numero. Sin embargo ArrayList es mas dinamico y se puede acceder cuando sea necesario.
 - ¿Qué beneficios y oportunidades ofrecen las clases genéricas en Java?
+Las clases genericas no hay necesidad de transferencia forzada de tipos, loque mejora la eficacia. Tambien ayuda el usar genericos para volver tu programa mucho mas fluido.
 
 ## III. CONCLUSION
-
+Java es un lenguaje de programacion orientado objetos, por lo que te ayuda a resolver de manera mas rapida este tipo de ejercicios creando clases, y genericos.
 #
    ## BIBLIOGRAFIA
 #
