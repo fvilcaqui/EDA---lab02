@@ -13,7 +13,7 @@
         </tr>
     </theader>
     <tbody>
-        <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio</td></tr>
+        <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: INFORME DE LABORATORIO</td></tr>
         <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
     </tbody>
 </table>
@@ -28,12 +28,12 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Estructura de Datos y Algoritmos</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Revisión de elementos de programación (Parte I)</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Revisión de elementos de programación (Parte II)</td></tr>
 <tr>
 <td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>09-May-2022</td><td>FECHA FIN:</td><td>13-May-2022</td><td>DURACIÓN:</td><td>02 horas</td>
+<td>FECHA INICIO::</td><td>09-May-2022</td><td>FECHA FIN:</td><td>15-May-2022</td><td>DURACIÓN:</td><td>02 horas</td>
 </tr>
 <tr><td colspan="6">RECURSOS:
 </td>
@@ -52,3 +52,38 @@
 </<tr>
 </tdbody>
 </table>
+
+#
+   ## SOLUCION Y RESULTADOS
+#
+
+## I. SOLUCION DE EJERCICIOS/PROBLEMAS
+
+## II. SOLUCION DEL CUESTIONARIO
+- ¿Qué diferencia hay entre un List y un ArrayList en Java?
+
+- ¿Qué beneficios y oportunidades ofrecen las clases genéricas en Java?
+
+## III. CONCLUSION
+
+#
+   ## BIBLIOGRAFIA
+#
+
+    - https://www.w3schools.com/java/
+    - https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-ide-enterprise-java-and-web-developers
+    - https://docs.oracle.com/javase/7/docs/api/java/util/List.html
+    - https://docs.oracle.com/javase/tutorial/java/generics/types.html
+
+
+
+
+
+
+
+
+
+
+
+
+
