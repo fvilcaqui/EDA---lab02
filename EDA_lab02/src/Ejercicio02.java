@@ -5,7 +5,7 @@ public class Ejercicio02 {
 		//Ingresaremos la cantidad de veces que desea que se mueva
 		System.out.println("Cantidad de veces que desea que se mueva para la izquierda:");
 		int mov = sc.nextInt();
-		int[] matriz = {1,2,3,4,5};
+		int[] matriz = {1,2,3,4,5,6,7,8};
 		Imprimir(matriz);
 		System.out.println("Matriz rotada " + mov + " veces a la izquierda");
         Imprimir(RotarIzquierdaArray(matriz,mov));
@@ -18,7 +18,7 @@ public class Ejercicio02 {
 			nueva[c] = a[i];
 			c++;
 		}
-		for(int j=a.length-b;j<a.length;j++) {
+		for(int j=0;j<b;j++) {
 			nueva[c] = a[j];
 			c++;
 		}
