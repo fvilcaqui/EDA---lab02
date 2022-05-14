@@ -79,7 +79,9 @@ La interfaz lista crea una coleccion de elementos y se identifican o acceden med
 Las clases genericas no hay necesidad de transferencia forzada de tipos, loque mejora la eficacia. Tambien ayuda el usar genericos para volver tu programa mucho mas fluido.
 
 ## III. CONCLUSION
-Java es un lenguaje de programacion orientado objetos, por lo que te ayuda a resolver de manera mas rapida este tipo de ejercicios creando clases, y genericos.
+Java es un lenguaje de programacion orientado objetos, por lo que te ayuda a resolver de manera mas rapida este tipo de ejercicios creando clases , y genericos.
+La ardua variedad de metodos tambien nos ayuda en esto y nos agiliza algunos tipos de ejercicios.
+
 #
    ## BIBLIOGRAFIA
 #
