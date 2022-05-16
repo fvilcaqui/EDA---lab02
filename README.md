@@ -59,15 +59,19 @@
 
 ## I. SOLUCION DE EJERCICIOS/PROBLEMAS
 Ejercicio1
+
 ![image](https://user-images.githubusercontent.com/87882802/168411146-e5b6502a-980d-4e49-ac34-5d6f52b3d028.png)
 
 Ejercicio2
+
 ![image](https://user-images.githubusercontent.com/87882802/168411155-e8281919-2bad-4f79-a87e-e11826fbc6fd.png)
 
 Ejercicio3
+
 ![image](https://user-images.githubusercontent.com/87882802/168411164-2583af19-c542-4c00-917a-ff4cc52065fe.png)
 
 Ejercicio4
+
 ![image](https://user-images.githubusercontent.com/87882802/168411175-721c1bb3-d820-4042-9ac7-58af122f9711.png)
 
 
